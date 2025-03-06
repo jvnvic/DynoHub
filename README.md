@@ -27,7 +27,7 @@ DynoHub is beginner-friendly and easy to set up. An **Arduino IDE Board Configur
 Libraries are available for:
 - CAN Bus
 - Ethernet
-- SD Card
+- SD Card: https://github.com/jvnvic/DynoHubSD
 
 Each library comes with sample code to help you get started quickly.
 
