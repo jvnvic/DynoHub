@@ -15,8 +15,8 @@
           "category": "ESP32",
           "url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackagev1.0.1/arduino-esp32-dynohub.zip",
           "archiveFileName": "arduino-esp32-dynohub.zip",	  
-		  "checksum": "SHA-256:a5a53f9ffe980568e2a1d5d870c462f092391d457c538783390f678c9d999464",
-		  "size": "39263894",
+		  "checksum": "SHA-256:377b0493597b6d3ebd4165fd044c545675dc61ed1cff55ce5aab2bbe50f5ce0a",
+		  "size": "39263831",
           "boards": [
             {
               "name": "DynoHub ESP32 WROOM"
