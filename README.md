@@ -28,7 +28,6 @@ Libraries are available for:
 - CAN Bus
 - Ethernet
 - SD Card
-- GPIO and more...
 
 Each library comes with sample code to help you get started quickly.
 
