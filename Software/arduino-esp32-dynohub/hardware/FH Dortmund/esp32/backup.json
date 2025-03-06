@@ -1,0 +1,29 @@
+{
+  "packages": [
+    {
+      "name": "FH Dortmund",
+      "maintainer": "Daniel Jovanovic",
+      "websiteURL": "https://github.com/jvnvic/DynoHub",
+      "platforms": [
+        {
+          "name": "framework-arduinoespressif32-dynohub",
+		  "description": "Arduino Wiring-based Framework for the ESP32-based DynoHub Dev Board",
+          "architecture": "esp32",
+		  "keywords": [
+			"framework",
+			"arduino",
+			"dynohub",
+			"esp32"
+			],
+          "version": "1.0.0",
+          "url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackage/arduino-esp32-dynohub.zip"
+          "archiveFileName": "arduino-esp32-dynohub.zip",
+          "boards": [
+            { "name": "DynoHub ESP32 WROOM" }
+          ],
+          "toolsDependencies": []
+        }
+      ]
+    }
+  ]
+}
