@@ -15,8 +15,8 @@
           "category": "ESP32",
           "url": "https://github.com/jvnvic/DynoHub/blob/6cc96fce14ffd1c9c9ca5db0c209b50177cc2c02/Software/arduino-esp32-dynohub.zip",
           "archiveFileName": "arduino-esp32-dynohub.zip",	  
-		  "checksum": "SHA-256:54467027c9bf1d401a3bb0c04196b169ad53774931ef60fb763e3b72547991ff",
-		  "size": "39263724",
+		  "checksum": "SHA-256:a5a53f9ffe980568e2a1d5d870c462f092391d457c538783390f678c9d999464",
+		  "size": "39263894",
           "boards": [
             {
               "name": "DynoHub ESP32 Dev Board"
