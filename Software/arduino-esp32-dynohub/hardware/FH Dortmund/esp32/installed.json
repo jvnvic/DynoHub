@@ -17,19 +17,7 @@
           "archiveFileName": "arduino-esp32-dynohub.zip",
           "boards": [
             {
-              "name": "ESP32 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
-            {
-              "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "ESP32-C3 Dev Board"
-            },
-            {
-              "name": "Arduino Nano ESP32"
+              "name": "DynoHub ESP32 Dev Board"
             }
           ],
           "help": {},
