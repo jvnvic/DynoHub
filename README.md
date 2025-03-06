@@ -37,7 +37,7 @@ Each library comes with sample code to help you get started quickly.
   ![Pinout](https://i.imgur.com/xDfqLQV.png)
 
 - **Functional Schematic Block Diagram**  
-  ![Block Diagram](https://i.imgur.com/UI3UM7d.png)
+  ![Block Diagram]([https://i.imgur.com/UI3UM7d.png](https://i.imgur.com/NUwmpEC.png)
 
 ## License
 This project is open-source and available for personal and educational use.
