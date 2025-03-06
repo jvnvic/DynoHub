@@ -4,7 +4,7 @@
       "name": "esp32-dynohub",
       "maintainer": "Daniel Jovanovic",
       "websiteUrl": "https://github.com/jvnvic/DynoHub",
-      "Url": "https://github.com/jvnvic/DynoHub/blob/6cc96fce14ffd1c9c9ca5db0c209b50177cc2c02/Software/arduino-esp32-dynohub.zip",
+      "Url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackagev1.1/arduino-esp32-dynohub.zip",
       "email": "daniel.jovanovic@outlook.com",
       "platforms": [
         {
@@ -13,9 +13,9 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "ESP32",
-          "url": "https://github.com/jvnvic/DynoHub/blob/6cc96fce14ffd1c9c9ca5db0c209b50177cc2c02/Software/arduino-esp32-dynohub.zip",
+          "url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackagev1.1/arduino-esp32-dynohub.zip",
           "archiveFileName": "arduino-esp32-dynohub.zip",
-		  "checksum": "MD5:ecd572b3eda2f5a5b273fa67a98eec36",
+		  "checksum": "SHA-256:a5a53f9ffe980568e2a1d5d870c462f092391d457c538783390f678c9d999464",
 		  "size": "39263724",
           "boards": [
             {
