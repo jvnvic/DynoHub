@@ -1,4 +1,4 @@
-name=DynoHub ESP32 Board
+name=DynoHub ESP32 WROOM
 version=1.0.0
 
 tools.esp32-arduino-libs.path={runtime.tools.esp32-arduino-libs.path}

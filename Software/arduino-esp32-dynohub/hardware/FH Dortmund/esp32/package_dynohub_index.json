@@ -1,25 +1,25 @@
 {
   "packages": [
     {
-      "name": "esp32-dynohub",
+      "name": "DynoHub",
       "maintainer": "Daniel Jovanovic",
       "websiteUrl": "https://github.com/jvnvic/DynoHub",
-      "url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackagev1.1/arduino-esp32-dynohub.zip",
+      "url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackagev1.0.1/arduino-esp32-dynohub.zip",
       "email": "daniel.jovanovic@outlook.com",
       "platforms": [
         {
-          "name": "esp32-dynohub",
+          "name": "DynoHub",
           "architecture": "esp32",
           "version": "1.0.0",
           "deprecated": false,
           "category": "ESP32",
-          "url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackagev1.1/arduino-esp32-dynohub.zip",
+          "url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackagev1.0.1/arduino-esp32-dynohub.zip",
           "archiveFileName": "arduino-esp32-dynohub.zip",	  
 		  "checksum": "SHA-256:a5a53f9ffe980568e2a1d5d870c462f092391d457c538783390f678c9d999464",
 		  "size": "39263894",
           "boards": [
             {
-              "name": "DynoHub ESP32 Dev Board"
+              "name": "DynoHub ESP32 WROOM"
             }
           ],
           "help": {},
