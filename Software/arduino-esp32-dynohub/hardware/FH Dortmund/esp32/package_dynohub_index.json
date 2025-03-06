@@ -15,23 +15,9 @@
           "category": "ESP32",
           "url": "https://github.com/jvnvic/DynoHub/releases/download/boardpackage/arduino-esp32-dynohub.zip",
           "archiveFileName": "arduino-esp32-dynohub.zip",
-          "checksum": "SHA-256:e20982b2860eab4900ce16a0f2b7f9fc3ffb205e490dc933f625d53a5c9e8129",
-          "size": "25253828",
           "boards": [
             {
-              "name": "ESP32 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
-            {
-              "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "ESP32-C3 Dev Board"
-            },
-            {
-              "name": "Arduino Nano ESP32"
+              "name": "DynoHub ESP32 Dev Board"
             }
           ],
           "help": {},
