@@ -84,7 +84,6 @@ set(ARDUINO_ALL_LIBRARIES
   BLE
   BluetoothSerial
   DNSServer
-DynoHubSD
   EEPROM
   ESP_I2S
   ESP_NOW
@@ -101,7 +100,6 @@ DynoHubSD
   NetBIOS
   Network
   OpenThread
-UDPSender
   PPP
   Preferences
   RainMaker
