@@ -1,6 +1,7 @@
 # DynoHub - Automotive Development Platform
 
 ![DynoHub Logo](https://i.imgur.com/MOfc0t5.png)
+![DynoHub Render Banner](https://i.imgur.com/hfDcPy3.png)
 
 DynoHub is an ESP32-based development board in an Arduino Uno form factor, designed for automotive applications. It was developed at the Elektroniklabor F107 for the Fachhochschule Dortmund.
 
