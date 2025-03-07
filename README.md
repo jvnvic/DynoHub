@@ -25,8 +25,8 @@ DynoHub is beginner-friendly and easy to set up. An **Arduino IDE Board Configur
 
 ### Libraries & Examples
 Libraries are available for:
-- Ethernet https://github.com/jvnvic/UDPSender
-- SD Card: https://github.com/jvnvic/DynoHubSD
+- Ethernet: https://github.com/jvnvic/UDPSender
+- SD Card: https://github.com/jvnvic/EasySDMMC
 
 Each library comes with sample code to help you get started quickly.
 
