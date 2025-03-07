@@ -18,10 +18,27 @@ DynoHub is an ESP32-based development board in an Arduino Uno form factor, desig
 
 DynoHub is beginner-friendly and easy to set up. An **Arduino IDE Board Configuration** is available, along with dedicated **libraries** for each peripheral, complete with example sketches.
 
-### Board Configuration
-1. Install the **DynoHub Board Package** in the Arduino IDE.
-2. Select **DynoHub ESP32** as the board type.
-3. Use provided **example sketches** to get started.
+
+### Installing the DynoHub Board Package in Arduino IDE
+
+To use the DynoHub board with Arduino IDE, you need to install the custom board package. Follow these steps:
+
+1. Open **Arduino IDE**.
+2. Go to **File** > **Preferences** (Windows) or **Arduino** > **Preferences** (Mac).
+3. In the **Additional Board Manager URLs** field, add the following URL:
+
+```text
+https://raw.githubusercontent.com/jvnvic/DynoHub/refs/heads/main/Software/arduino-esp32-dynohub/hardware/FH%20Dortmund/package_dynohub_index.json
+```
+
+  If there are existing URLs, separate them with a comma.
+
+5. Click **OK** to save the settings.
+6. Open **Tools** > **Board** > **Boards Manager**.
+7. Search for **DynoHub** and install the corresponding board package.
+8. Once installed, select the appropriate **DynoHub** board from **Tools** > **Board**.
+
+You are now ready to program your DynoHub board with Arduino IDE!
 
 ### Libraries & Examples
 Libraries are available for:
