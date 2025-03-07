@@ -7,7 +7,7 @@ DynoHub is an ESP32-based development board in an Arduino Uno form factor, desig
 ## Features
 
 - **ESP32 WROOM** – Integrated WiFi and Bluetooth
-- **Automotive-grade power supply** – Wide input voltage range: 4.75V to 45V
+- **Modular Automotive-grade power supply** – Wide input voltage range: 4.75V to 45V
 - **CAN Bus** – Automotive communication support
 - **100Mbit Ethernet** – High-speed wired networking
 - **MicroSD Card Slot** – Expandable storage
